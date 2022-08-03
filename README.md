@@ -20,3 +20,9 @@ Name									Example Data	Description
 10. Time since last DGPS update	blank		No 	last update  
 11. DGPS reference station id	blank	No station id  
 12. Checksum								*75				Used by program to check for transmission errors  
+
+
+## Please cite the following papers when using this dataset
+Li, Q., Li, X., Huang, Z., Halkias, J., McHale, G., & James, R. (2021). Simulation of mixed traffic with cooperative lane changes. Computer‐Aided Civil and Infrastructure Engineering.
+
+Wang, Z., Zhao, X., Xu, Z., Li, X., Qu, X. (2021). Modeling and field experiments on lane changing of an autonomous vehicle in mixed traffic. Computer-Aided Civil and Infrastructure Engineering, 36(7), 877-889. https://doi.org/10.1111/mice.12540
