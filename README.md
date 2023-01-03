@@ -21,6 +21,17 @@ Name									Example Data	Description
 11. DGPS reference station id	blank	No station id  
 12. Checksum								*75				Used by program to check for transmission errors  
 
+Data Visualization
+This section visualized the trajectory of vehicles in experiments.
+First, for data processing, the GPS data (GPGGA Global Positioning System Fix Data) is transferred to the Universal Transverse Mercator (UTM); the time formed in ‘hhmmss’ is transferred to the seconds.
+The four vehicles had processed several round trips on a straight road. The trajectory of four vehicles in the whole data is shown in the following figure.
+ 
+Vehicle trajectory of AV lane change experiment
+
+Among the several round trips, some of the trips achieved success in lane-changing behavior. The following figure shows change of X-position in UTM coordinate along the time of one successful AV lane-change process (from 10:01:50.4 to 10:03:10.4).
+ 
+Vehicle trajectory of one successful AV lane-change process
+
 
 ## Please cite the following papers when using this dataset
 Li, Q., Li, X., Huang, Z., Halkias, J., McHale, G., & James, R. (2021). Simulation of mixed traffic with cooperative lane changes. Computer‐Aided Civil and Infrastructure Engineering.
