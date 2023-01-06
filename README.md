@@ -33,7 +33,7 @@ Among the several round trips, some of the trips achieved success in lane-changi
 Vehicle trajectory of one successful AV lane-change process
 
 This work is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) licesne.
-<img align="left" alt="CC BY-SA 4.0" width="22px" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" />
+<img align="left" alt="CC BY-SA 4.0" width="50px" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" />
 ## Please cite the following papers when using this dataset
 Li, Q., Li, X., Huang, Z., Halkias, J., McHale, G., & James, R. (2021). Simulation of mixed traffic with cooperative lane changes. Computer‐Aided Civil and Infrastructure Engineering.
 
