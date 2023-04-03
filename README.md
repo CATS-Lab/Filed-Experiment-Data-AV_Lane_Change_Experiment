@@ -21,15 +21,15 @@ Name									Example Data	Description
 11. DGPS reference station id	blank	No station id  
 12. Checksum								*75				Used by program to check for transmission errors  
 
-Data Visualization
+# Data Visualization
 This section visualized the trajectory of vehicles in experiments.
 First, for data processing, the GPS data (GPGGA Global Positioning System Fix Data) is transferred to the Universal Transverse Mercator (UTM); the time formed in ‘hhmmss’ is transferred to the seconds.
 The four vehicles had processed several round trips on a straight road. The trajectory of four vehicles in the whole data is shown in the following figure.
- 
+![](https://github.com/CATS-Lab/Filed-Experiment-Data-AV_Lane_Change_Experiment/blob/main/img/Vehicle%20trajectory%20of%20AV%20lane%20change%20experiment.png)
 Vehicle trajectory of AV lane change experiment
 
 Among the several round trips, some of the trips achieved success in lane-changing behavior. The following figure shows change of X-position in UTM coordinate along the time of one successful AV lane-change process (from 10:01:50.4 to 10:03:10.4).
- 
+![](https://github.com/CATS-Lab/Filed-Experiment-Data-AV_Lane_Change_Experiment/blob/main/img/Vehicle%20trajectory%20of%20one%20successful%20AV%20lane-change%20process.png)
 Vehicle trajectory of one successful AV lane-change process
 
 This work is published under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) licesne.
